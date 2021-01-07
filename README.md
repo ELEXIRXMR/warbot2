@@ -32,7 +32,7 @@ ini semua gratis, jangan pelit ⭐️ ya :D
 
 <div align="center"">
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Imszy17/WhatsApp-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ikadekmahagangga/warbot2)
 
 </div>
 
